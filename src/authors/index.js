@@ -181,8 +181,4 @@ router.put(
   }
 );
 
-<<<<<<< HEAD
 export default router; //This line exports the router
-=======
-export default router; //This is a sample message
->>>>>>> 2e2c2df9b7abeca7d2feb8ce87cfcedd92b48ddb
